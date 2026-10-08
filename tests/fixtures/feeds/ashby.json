@@ -1,0 +1,5 @@
+{"jobs": [
+  {"title": "Test Engineer", "location": "Lund", "jobUrl": "https://jobs.ashbyhq.com/acme/x1",
+   "descriptionPlain": "Requirements\nTesting and data analysis experience.", "isListed": true},
+  {"title": "Hidden role", "location": "Lund", "jobUrl": "https://jobs.ashbyhq.com/acme/x2",
+   "descriptionPlain": "Not public.", "isListed": false}]}

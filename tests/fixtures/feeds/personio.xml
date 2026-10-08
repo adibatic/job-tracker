@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workzag-jobs>
+  <position>
+    <id>42</id>
+    <office>Bremen</office>
+    <name>Systems Engineer</name>
+    <jobDescriptions>
+      <jobDescription><name>Your tasks</name><value>&lt;p&gt;Run verification campaigns.&lt;/p&gt;</value></jobDescription>
+      <jobDescription><name>Your profile</name><value>&lt;p&gt;Python, validation.&lt;/p&gt;</value></jobDescription>
+    </jobDescriptions>
+  </position>
+</workzag-jobs>

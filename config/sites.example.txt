@@ -1,0 +1,29 @@
+# Example. Copy this file to config/sites.txt (kept off GitHub) and list your
+# own career pages there.
+#
+# Career pages to track. One site per line:
+#
+#   name   url   [option=value ...]
+#
+# name     short folder name for this site's data (data/<name>/); letters,
+#          digits, - and _ only. Leave it out and the domain is used.
+# url      the careers page you would open in a browser
+#
+# Options (all optional; the source is detected from the url):
+#   source=table|links|greenhouse|lever|ashby|recruitee|personio
+#            table   an HTML table with a Title column
+#            links   any page; job links are found by their address
+#            others  public job-board feeds, read as JSON or XML
+#   board=<id>       board / company id for a job-board feed, if the url
+#                    does not show it
+#   pattern=<regex>  for links: only links whose address matches
+#   render=yes       the page builds its list with JavaScript (needs Playwright)
+#
+# Lines starting with # are ignored. Examples (remove the # to enable):
+#
+#   orbitco     https://jobs.ashbyhq.com/orbitco
+#   somecorp    https://boards.greenhouse.io/somecorp
+#   another     https://jobs.lever.co/another
+#   startup     https://startup.example/careers   pattern=/careers/[a-z0-9-]+$
+
+#   company     https://company.example/careers/

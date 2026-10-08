@@ -1,0 +1,20 @@
+Job opportunity
+Flight Safety Engineer – Graduate (synthetic test posting)
+Northtown (SE)•Sweden•Permanent
+Description
+Start Date: 2027-09-01
+Location: Launch Site, Northtown, Sweden
+Submission Deadline: 2027-05-31
+Requirements
+* Degree in Aerospace Engineering, Mechanical Engineering, or a related field.
+* Recent graduate or junior engineer.
+* Experience with Python and numerical simulation.
+* Interest in trajectory prediction, dispersion and safety analysis for rocket launches.
+* Fluency in English; Swedish is required for communication with local authorities.
+Responsibilities
+* Run trajectory and impact-dispersion simulations before each launch.
+* Document risk analyses for sounding rockets and balloons.
+Benefits
+* Relocation support.
+Our Values:
+Example Space Corp has more than 50 years of experience and offers rocket and balloon systems, launch services and satellite operations to customers worldwide.

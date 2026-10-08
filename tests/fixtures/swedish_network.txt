@@ -1,0 +1,12 @@
+Job opportunity
+Nätverksingenjör till uppskjutningsbasen - Norrby (synthetic test posting)
+Northtown (SE)•Sweden•Permanent
+Description
+Vi söker en nätverksingenjör som vill arbeta med oss på vår uppskjutningsbas i Norrby. Du kommer att ansvara för drift och utveckling av nätverk för uppskjutningar och markstationer.
+Requirements
+* Erfarenhet av nätverk och Linux.
+* Du har en utbildning inom datateknik eller elektroteknik.
+* Du är noggrann och har god förmåga att arbeta i team, och du trivs med att ta ansvar för att lösa problem.
+Responsibilities
+* Drift och underhåll av nätverk för vår verksamhet.
+* Dokumentation och support till våra team och till kunder som är på plats.

@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# Stays on your machine, never uploaded:
+# - data/: fetched postings and history per site (company content)
+# - config/sites.txt: which companies you are tracking
+# - config/profile.json: your personal profile
+# The committed *.example.* files show the format.
+data/
+config/sites.txt
+config/profile.json

@@ -1,0 +1,87 @@
+{
+  "_comment": "Example profile. Copy to config/profile.json (kept off GitHub) and edit. Phrases match whole words; end a phrase with * to match any ending (robot* matches robotic, robotics).",
+  "languages": [
+    "english"
+  ],
+  "excluding_phrases": [
+    "eu citizenship",
+    "european citizenship",
+    "citizen of an eu member state",
+    "swedish citizenship",
+    "security clearance",
+    "security-cleared",
+    "us person",
+    "u.s. person",
+    "itar"
+  ],
+  "check_phrases": [
+    "right to work",
+    "work permit",
+    "work authorisation",
+    "work authorization",
+    "citizenship",
+    "nationality",
+    "clearance"
+  ],
+  "have_skills": [
+    "python",
+    "simulation*",
+    "numerical",
+    "optimi*",
+    "verification",
+    "validation",
+    "data analysis",
+    "statistic*",
+    "robot*",
+    "mechatronic*",
+    "sensor*",
+    "control system*",
+    "feedback control",
+    "cfd",
+    "openfoam",
+    "matlab",
+    "git",
+    "linux",
+    "test*",
+    "documentation"
+  ],
+  "learn_skills": [
+    "trajector*",
+    "orbit*",
+    "flight dynamics",
+    "safety analys*",
+    "risk*",
+    "dispersion",
+    "telemetry",
+    "tt&c",
+    "ground station*",
+    "ground segment",
+    "antenna*",
+    "leop",
+    "rocket*",
+    "balloon*",
+    "launch*",
+    "c++",
+    "embedded"
+  ],
+  "graduate_phrases": [
+    "graduate",
+    "junior",
+    "entry level",
+    "entry-level",
+    "trainee",
+    "intern",
+    "internship",
+    "thesis",
+    "student",
+    "master thesis",
+    "exjobb"
+  ],
+  "experienced_phrases": [
+    "proven experience",
+    "extensive experience",
+    "senior",
+    "team lead",
+    "principal"
+  ]
+}

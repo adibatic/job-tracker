@@ -1,0 +1,6 @@
+requests>=2.31
+beautifulsoup4>=4.12
+pytest>=8.0
+# Optional: only needed if job pages load their text with JavaScript.
+# Install with: pip install playwright && playwright install chromium
+# playwright>=1.45
