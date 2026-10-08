@@ -2,6 +2,7 @@
 name = "job-tracker"
 version = "0.1.0"
 description = "Track, snapshot and classify job postings across N career sites"
+authors = [{ name = "Adriel Imaran Santoso" }]
 requires-python = ">=3.10"
 dependencies = ["requests>=2.31", "beautifulsoup4>=4.12"]
 
